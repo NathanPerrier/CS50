@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: This is because a bubble sort goes through a list of data a number of times, comparing two items that are side by side to see which is out of order. Thus meaning that the closer the two numbers are, the less time the program takes to complete. Within the test it was proven that sort1 was the quickest with sorted values confirming that it is a bubble sort algarithm.
+
+sort2 uses: Merge Sort
+
+How do you know?: A merge sort typically works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. this algarith is typically the fastest when faced with multiple different inputs. When tesing sort2 it was proven that it was on average the fastest of the three, confirming the fact that it is a merge sort algarithm.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection sort works by taking the smallest element in an unsorted array and bringing it to the front. This algarithm takes time due to sorting through all the numbers to find the smallest value until all values have been rearranged. When testing sort3 took the longest for all tests confirming that it is a selection sort algarithm.
